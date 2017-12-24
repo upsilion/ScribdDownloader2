@@ -12,6 +12,8 @@ This application, ScribdDownloader2 is only for articles that are purely picture
 
 Run the file "ScribdDownloader2.py" and follow on screen instructions.
 
+Output will be placed into a folder auto named based on the name of the requested item, in the same directory as where this program is run. It will be full of images as is the nature of 2.
+
 ### ScribdDownloader2 vs ScribdDownloader3 ??
 
 NOTES: 3 IS NOT INHERENTLY BETTER THAN 2!
